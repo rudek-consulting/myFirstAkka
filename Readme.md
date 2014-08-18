@@ -4,7 +4,7 @@ Gemeinsames jar erzeugen mit
 ./activator
 > assembly
 
-Aufruf:
+Aufruf:            huhu
 
 java -jar myFirstAkka-assembly-1.1.jar
 
